@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Login from './Login';
-import UsersList from './UsersList';
-import CallsList from './CallsList';
+import Login from './components/Login';
+import UsersList from './components/UsersList';
+import CallsList from './components/CallsList';
 import './App.css';
 
 function App() {
